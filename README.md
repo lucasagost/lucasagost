@@ -6,7 +6,7 @@
 
 <div>
 <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=lucasagost&theme=github_dark"/>
-<img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasagost&layout=compact&langs_count16&theme=github_dark"/>
+<img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasagost&layout=compact&theme=github_dark"/>
   </div>
 
 ### Tecnologias que eu uso no meu dia a dia!
