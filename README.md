@@ -5,6 +5,7 @@
 [![Portfolio](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](lucasagostinhodeassis@gmail.com)
 
 ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasagost&theme=github_dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasagost&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Tecnologias que eu uso no meu dia a dia!
 
