@@ -5,12 +5,14 @@
 [![Portfolio](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](lucasagostinhodeassis@gmail.com)
 
 <div>
-<img  height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasagost&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-
-<img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasagost&layout=compact&langs_count=16&theme=github_dark"/>
-</div>
+<img height="180cm" src="https://github-readme-stats.vercel.app/api?username=lucasagost&theme=github_dark"/>
+  </div>
+  
+  <div>
+<img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasagost&layout=compact&theme=github_dark"/>
   </div>
 
+##
 ### Tecnologias que eu uso no meu dia a dia!
 
 <div style="display: inline_block"><br/>
