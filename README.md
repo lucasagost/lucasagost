@@ -1,10 +1,13 @@
-### Olá! Eu sou o Lucas Agostinho 👋
+## Olá! Eu sou o Lucas Agostinho 👋
 
 [![Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://sites.google.com/view/lucasagostinho/in%C3%ADcio)
 [![Portfolio](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasagostinho/)
 [![Portfolio](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](lucasagostinhodeassis@gmail.com)
 
-![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasagost&theme=github_dark)
+<div>
+<img height="180cm" src="https://github-readme-stats.vercel.app/api?username=lucasagost&theme=github_dark"/>
+<img align="right" height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasagost&layout=compact&theme=github_dark"/>
+  </div>
 
 ### Tecnologias que eu uso no meu dia a dia!
 
